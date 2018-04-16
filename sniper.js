@@ -154,8 +154,7 @@ client.on('message', (message) => {
     if (message.author.id == sniper.owner) {
 
         const args = message.content.slice(sniper.botprefix.length).trim().split(/ +/g);
-        const command = args.shift().toLowerCase();
-
+        
         if (message.content.startsWith(sniper.botprefix + 'info') && args[0] == sniper.instance) {
             return message.channel.send(sniper.pokeprefix + "info");
         }
