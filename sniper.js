@@ -1,5 +1,4 @@
-const discord = require('discord.js');
-const client = new discord.Client();
+const client = new (require('discord.js')).Client();
 
 // Customisable stuff
 
