@@ -61,3 +61,6 @@ sniper.owner = 'your-discord-id'; // The owner ID of the sniper (To use commands
 ```
 >confirm
 ```
+## License
+
+This project is licensed under the GNU General Public License v3.0. See the [LICENSE.md](https://github.com/X3I/PokeSniper/blob/master/LICENSE) file for details
