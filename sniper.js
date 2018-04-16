@@ -5,20 +5,19 @@ const client = new discord.Client();
 
 var sniper = {};
 
-sniper.instance = 1; // Change this number for every instance of snipebot you have running
-
-sniper.enablecatch = true; // Enable sniping? (True/False)
-sniper.enablespam = true; // Enable spamming? (True/False)
-sniper.enablelogs = true; // Enable catch logging? (True/False)
-sniper.spawn = 'some-channel-id'; // The id of your redirected spawn room
-sniper.spam = ['some-channel-id', 'some-channel-id']; // The ids (array) of your spam rooms
-sniper.spamtime = 5000; // Hopw often to send spam messages in ms
-sniper.logs = 'some-channel-id'; // The id of your catch logs room
-sniper.pokeprefix = '-'; // The pokeCord Prefix
-sniper.botprefix = '>'; // The prefix you want to use for the sniper commands
-sniper.playing = 'Fortnite'; // The game you are playing
-sniper.token = 'your-user-token'; // Your discord token
-sniper.owner = 'your-discord-id'; // The owner ID of the sniper (To use commands)
+sniper.instance = 1; 
+sniper.enablecatch = true;
+sniper.enablespam = true;
+sniper.enablelogs = true;
+sniper.spawn = 'some-channel-id';
+sniper.spam = ['some-channel-id', 'some-channel-id'];
+sniper.spamtime = 5000;
+sniper.logs = 'some-channel-id';
+sniper.pokeprefix = '-';
+sniper.botprefix = '>';
+sniper.playing = 'Fortnite';
+sniper.token = 'your-user-token';
+sniper.owner = 'your-discord-id';
 
 // Text to spam
 
