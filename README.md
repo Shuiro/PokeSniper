@@ -4,6 +4,8 @@ Simple single file bot to spawn, level &amp; snipe PokeCord Pokemon
 ## Requirements
 You will need to have node.js installed and the discord.js lib.
 
+I also recommend using forever to keep your bot online.
+
 ## Configurable Options
 
 ```JS
