@@ -8,13 +8,12 @@ You will need to have node.js installed and the discord.js lib.
 
 ```JS
 sniper.instance = 1; // Change this number for every instance of snipebot you have running
-
 sniper.enablecatch = true; // Enable sniping? (True/False)
 sniper.enablespam = true; // Enable spamming? (True/False)
 sniper.enablelogs = true; // Enable catch logging? (True/False)
 sniper.spawn = 'some-channel-id'; // The id of your redirected spawn room
 sniper.spam = ['some-channel-id', 'some-channel-id']; // The ids (array) of your spam rooms
-sniper.spamtime = 5000; // Hopw often to send spam messages in ms
+sniper.spamtime = 5000; // How often to send spam messages in ms
 sniper.logs = 'some-channel-id'; // The id of your catch logs room
 sniper.pokeprefix = '-'; // The pokeCord Prefix
 sniper.botprefix = '>'; // The prefix you want to use for the sniper commands
