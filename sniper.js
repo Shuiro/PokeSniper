@@ -108,6 +108,9 @@ sniper.list = {
     "https://www.pokecord.com/assets/psVyZGhxJJYF.png": "phione",
     "https://www.pokecord.com/assets/gmypxntMuvAg.png": "meloetta",
     "https://www.pokecord.com/assets/jpTSifixFERC.png": "salamence",
+    "https://www.pokecord.com/assets/tABILovbRKFj.png": "articuno",
+    "https://www.pokecord.com/assets/jrtwAZnqbchL.png": "zapdos",
+    "https://www.pokecord.com/assets/eZkYQHqyjWHF.png": "moltres",
 };
 // Logging in to discord
 
