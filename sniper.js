@@ -32,7 +32,7 @@ sniper.words = [
 sniper.list = {
     "https://www.pokecord.com/assets/kgXSBkJJPKDr.png": "celebi",
     "https://www.pokecord.com/assets/UlaeTRHTQKPZ.png": "sylveon",
-    "https://www.pokecord.com/assets/kVhVHnuRGyXx.png": "abra",
+    "https://www.pokecord.com/assets/GaHwiNbMfaxB.png": "absol",
     "https://www.pokecord.com/assets/cZwtyzSpoTGK.png": "mewtwo",
     "https://www.pokecord.com/assets/GOvTOLWUXLyi.png": "mew",
     "https://www.pokecord.com/assets/NKcRJRyzXtCs.png": "ho-oh",
@@ -63,7 +63,7 @@ sniper.list = {
     "https://www.pokecord.com/assets/vHPNnLbWftdv.png": "leafeon",
     "https://www.pokecord.com/assets/bohDfKyJVhlQ.png": "shaymin",
     "https://www.pokecord.com/assets/lUUbmdNYWQGe.png": "rayquaza",
-    "https://www.pokecord.com/assets/bWWexYtKUQBp.png": "chansey",
+    "https://www.pokecord.com/assets/KRSAMJTKhehv.png": "Blissey",
     "https://www.pokecord.com/assets/qWIjKKIExWHW.png": "marshadow",
     "https://www.pokecord.com/assets/pCQQZWewTILN.png": "magearna",
     "https://www.pokecord.com/assets/BcVcWlExuScw.png": "volcanion",
