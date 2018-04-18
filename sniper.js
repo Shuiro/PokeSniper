@@ -32,7 +32,7 @@ sniper.words = [
 sniper.list = {
     "https://www.pokecord.com/assets/kgXSBkJJPKDr.png": "celebi",
     "https://www.pokecord.com/assets/UlaeTRHTQKPZ.png": "sylveon",
-    "https://www.pokecord.com/assets/kVhVHnuRGyXx.png": "abra",
+    "https://www.pokecord.com/assets/GaHwiNbMfaxB.png": "absol",
     "https://www.pokecord.com/assets/cZwtyzSpoTGK.png": "mewtwo",
     "https://www.pokecord.com/assets/GOvTOLWUXLyi.png": "mew",
     "https://www.pokecord.com/assets/NKcRJRyzXtCs.png": "ho-oh",
@@ -63,7 +63,7 @@ sniper.list = {
     "https://www.pokecord.com/assets/vHPNnLbWftdv.png": "leafeon",
     "https://www.pokecord.com/assets/bohDfKyJVhlQ.png": "shaymin",
     "https://www.pokecord.com/assets/lUUbmdNYWQGe.png": "rayquaza",
-    "https://www.pokecord.com/assets/bWWexYtKUQBp.png": "chansey",
+    "https://www.pokecord.com/assets/KRSAMJTKhehv.png": "Blissey",
     "https://www.pokecord.com/assets/qWIjKKIExWHW.png": "marshadow",
     "https://www.pokecord.com/assets/pCQQZWewTILN.png": "magearna",
     "https://www.pokecord.com/assets/BcVcWlExuScw.png": "volcanion",
@@ -111,6 +111,17 @@ sniper.list = {
     "https://www.pokecord.com/assets/tABILovbRKFj.png": "articuno",
     "https://www.pokecord.com/assets/jrtwAZnqbchL.png": "zapdos",
     "https://www.pokecord.com/assets/eZkYQHqyjWHF.png": "moltres",
+    "https://www.pokecord.com/assets/jpZFhVGXfqLm.png": "Nihilego",
+    "https://www.pokecord.com/assets/ANvAfwmkGRaB.png": "Buzzwole",
+    "https://www.pokecord.com/assets/qsgvDVdRNzub.png": "Pheromosa",
+    "https://www.pokecord.com/assets/NUZGOUliZbVp.png": "Xurkitree",
+    "https://www.pokecord.com/assets/wWVViynlNwhq.png": "Celesteela",
+    "https://www.pokecord.com/assets/BerOymYadVZb.png": "Kartana",
+    "https://www.pokecord.com/assets/rRNgybNqrYHt.png": "Guzzlord",
+    "https://www.pokecord.com/assets/CxNLfbLtZvMP.png": "Poipole",
+    "https://www.pokecord.com/assets/bmmBRtRnAKMm.png": "Naganadel",
+    "https://www.pokecord.com/assets/oXPJVtJJDCWO.png": "Stakataka",
+    "https://www.pokecord.com/assets/kkWnZrvNFUht.png": "Blacephalon",
 };
 // Logging in to discord
 
