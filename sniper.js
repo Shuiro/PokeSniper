@@ -122,6 +122,8 @@ sniper.list = {
     "https://www.pokecord.com/assets/bmmBRtRnAKMm.png": "Naganadel",
     "https://www.pokecord.com/assets/oXPJVtJJDCWO.png": "Stakataka",
     "https://www.pokecord.com/assets/kkWnZrvNFUht.png": "Blacephalon",
+    "https://www.pokecord.com/assets/SVNIugrJFtLE.png": "Lucario",
+    "https://www.pokecord.com/assets/QPtVRizQYUaO.png": "Riolu",
 };
 // Logging in to discord
 
